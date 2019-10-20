@@ -9,3 +9,4 @@ repository = "https://github.com/Ajk-15/rust_sqnumber"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+sq_num = "0.1.0"
