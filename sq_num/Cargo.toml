@@ -1,0 +1,11 @@
+[package]
+name = "sq_num"
+version = "0.1.0"
+authors = ["Ajk-15 <aadil_jehanzeb15@yahoo.com>"]
+edition = "2018"
+description = "Gives a square of number"
+license = "MIT"
+repository = "https://github.com/Ajk-15/rust_sqnumber"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
